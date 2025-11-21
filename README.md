@@ -24,3 +24,8 @@ pip install -r requirements.txt
 - Сразу отправляет на destination адрес
 
 
+сидки в data/seeds.txt
+адрес куда отправить все деньги в destination.txt
+прокси в той же директории
+
+три года назад я бросил нюхать м*ф
