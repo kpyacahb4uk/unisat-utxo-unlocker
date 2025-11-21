@@ -1,0 +1,4 @@
+bitcoin-utils-fork-minimal==0.4.11.3
+colorama==0.4.6
+requests==2.31.0
+aiohttp==3.9.1

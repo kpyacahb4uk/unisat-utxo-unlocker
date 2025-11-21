@@ -1,0 +1,8 @@
+{
+  "seeds_file": "data/seeds.txt",
+  "destination_file": "data/destination.txt",
+  "max_workers": 10,
+  "batch_size": 10,
+  "check_interval": 30,
+  "fee_multiplier": 1.1
+}
